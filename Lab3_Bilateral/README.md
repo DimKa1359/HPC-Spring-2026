@@ -80,6 +80,3 @@ Output saved to: output.bmp
 
 Входное изображение после применения билатерального фильтра сохраняет чёткие границы между объектами, при этом шум на однородных поверхностях сглаживается. GPU-ускорение по сравнению с CPU составляет более 100x.
 
-[image.bmp](https://github.com/user-attachments/files/26701307/image.bmp)
-[output.bmp](https://github.com/user-attachments/files/26701314/output.bmp)
-
